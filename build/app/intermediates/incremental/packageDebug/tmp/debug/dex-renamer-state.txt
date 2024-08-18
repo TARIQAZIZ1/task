@@ -1,0 +1,4 @@
+#Sun Aug 18 23:34:47 PKT 2024
+base.0=/Users/pb/StudioProjects/task/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
